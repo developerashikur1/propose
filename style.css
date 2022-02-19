@@ -86,8 +86,8 @@ footer a {
   width: 30%;
 }
 
-@media only screen and (max-width: 678) {
+/* @media only screen and (max-width: 678) {
   .marquee {
     margin-top: 10rem;
   }
-}
+} */
